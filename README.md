@@ -5,7 +5,7 @@ this repo contain deep learning resources and projects for educational purposes 
 
 Basic examples
 -------------
-- **FeedForward net** [[useful background]()] [[Summery] (not yet!)] [[code - Keras] ()]
+- **FeedForward net** [[useful background](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial)] [[Summery] (not yet!)] [[code - Keras] (not yet!)]
 
 QA
 ------
