@@ -1,7 +1,7 @@
 #Deep stuff 
 =================
 
-this repo contain deep learning resources and projects for educational purposes + some other projects that are good candidate for deepenaization 
+this repo contain deep learning resources and projects for educational purposes + some other projects that are good candidate for deepenazation 
 
 Basic examples
 -------------
@@ -11,7 +11,7 @@ QA
 ------
 - **bAbI** : [Paper](http://arxiv.org/abs/1502.05698) [[Summery] (not yet!)] [[code - Keras] ()]
 - **E2E MN** : [Paper](http://arxiv.org/abs/1502.05698) [[Summery] (not yet!)] [[code - Keras] ()]
-
+- **KV MN** : [Paper](http://arxiv.org/pdf/1502.05698.pdf) [[Summery] (not yet!)]
 Recommender system
 ------------------
 
