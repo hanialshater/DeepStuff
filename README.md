@@ -8,7 +8,6 @@ Basic examples
 These are few basic models to get startd, try implement them before go further with deep learning !
 - **FeedForward net** [[useful background](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial)] [[Summery] (not yet!)] [[code - Keras] (not yet!)]
 - **Simple CNN** [[useful background](http://cs231n.github.io/convolutional-networks/)] [[Summery] (not yet!)] [[code - Keras] (not yet!)]
-- 
 
 QA
 ------
@@ -25,3 +24,5 @@ Recommender system
 - **Tripplet net for predicting items relations** [Not yet!]() [[Summery] (not yet!)]
 - **Deep MF with implicit feedback** [Not yet!]() [[Summery] (not yet!)]
 - **Deep and wide** [Not yet!]() [[Summery] (not yet!)]
+- **BPR: Bayesian Personalized Ranking from Implicit Feedback** [Paper](https://arxiv.org/pdf/1205.2618.pdf) [[Summery](not yet!)]
+- **VBPR: Visual Bayesian Personalized Ranking from Implicit Feedback** [Paper](http://cseweb.ucsd.edu/~jmcauley/pdfs/aaai16.pdf) [[Summery](not yet!)]
