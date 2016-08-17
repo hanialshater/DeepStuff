@@ -5,7 +5,10 @@ this repo contain deep learning resources and projects for educational purposes 
 
 Basic examples
 -------------
+These are few basic models to get startd, try implement them before go further with deep learning !
 - **FeedForward net** [[useful background](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial)] [[Summery] (not yet!)] [[code - Keras] (not yet!)]
+- **Simple CNN** [[useful background](http://cs231n.github.io/convolutional-networks/)] [[Summery] (not yet!)] [[code - Keras] (not yet!)]
+- 
 
 QA
 ------
