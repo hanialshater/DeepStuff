@@ -15,6 +15,7 @@ Appetizers
 Basic examples
 -------------
 These are few basic models to get startd, try implement them before go further with deep learning !
+- **Word2vec** word2vec using gensim [[link](http://rare-technologies.com/word2vec-tutorial/)][[lecture 1]( https://www.youtube.com/watch?v=kZteabVD8sU&index=1&list=PLmImxx8Char9Ig0ZHSyTqGsdhb9weEGam)][[lecture 2](https://www.youtube.com/watch?v=xhHOL3TNyJs&index=2&list=PLmImxx8Char9Ig0ZHSyTqGsdhb9weEGam)]
 - **FeedForward net** [[useful background](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial)] [[Summery] (not yet!)] [[code - Keras] (not yet!)]
 - **Simple CNN** [[useful background](http://cs231n.github.io/convolutional-networks/)] [[Summery] (not yet!)] [[code - Keras] (not yet!)]
 
