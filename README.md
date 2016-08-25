@@ -36,3 +36,12 @@ Recommender system
 - **Deep and wide** [Not yet!]() [[Summery] (not yet!)]
 - **BPR: Bayesian Personalized Ranking from Implicit Feedback** [Paper](https://arxiv.org/pdf/1205.2618.pdf) [[Summery](not yet!)]
 - **VBPR: Visual Bayesian Personalized Ranking from Implicit Feedback** [Paper](http://cseweb.ucsd.edu/~jmcauley/pdfs/aaai16.pdf) [[Summery](not yet!)]
+
+Neural networks architectures
+----------------------------------
+- **Net2Net** [Paper]() [[Summery]()] [[Code]()]
+- **Squeez net** [Paper]() [[Summery]()] [[Code]()]
+- **Siamese net** [[Summery]()] [[Code]()]
+- **Triplet net** [[Summery]()] [[Code]()]
+- **Resedual net** [Paper]() [[Summery]()] [[Code]()]
+- **Inception net** [Paper]() [[Summery]()] [[Code]()]
