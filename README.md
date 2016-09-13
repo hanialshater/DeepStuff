@@ -11,7 +11,8 @@ Appetizers
 - **How to generate image lables** [Link](http://cs.stanford.edu/people/karpathy/deepimagesent/)
 - **Humans last stand** [Link](https://deepmind.com/alpha-go)
 - **Neural hand writing** [Link](http://www.cs.toronto.edu/~graves/handwriting.html)
-
+- **TensorFlow Playground** [Link](http://playground.tensorflow.org)
+- 
 Basic examples
 -------------
 These are few basic models to get startd, try implement them before go further with deep learning !
