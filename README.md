@@ -12,7 +12,7 @@ Appetizers
 - **Humans last stand** [Link](https://deepmind.com/alpha-go)
 - **Neural hand writing** [Link](http://www.cs.toronto.edu/~graves/handwriting.html)
 - **TensorFlow Playground** [Link](http://playground.tensorflow.org)
-- ** physics of NN (http://arxiv.org/pdf/1608.08225v1.pdf)
+- **physics of NN** [Link](http://arxiv.org/pdf/1608.08225v1.pdf)
 
 Basic examples
 -------------
