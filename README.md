@@ -12,7 +12,8 @@ Appetizers
 - **Humans last stand** [Link](https://deepmind.com/alpha-go)
 - **Neural hand writing** [Link](http://www.cs.toronto.edu/~graves/handwriting.html)
 - **TensorFlow Playground** [Link](http://playground.tensorflow.org)
-- 
+- ** physics of NN (http://arxiv.org/pdf/1608.08225v1.pdf)
+
 Basic examples
 -------------
 These are few basic models to get startd, try implement them before go further with deep learning !
