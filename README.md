@@ -23,27 +23,27 @@ These are few basic models to get startd, try implement them before go further w
 
 QA
 ------
-- **bAbI** : [Paper](http://arxiv.org/abs/1502.05698) [[Summery] (not yet!)] [[code - Keras] ()]
-- **E2E MN** : [Paper](http://arxiv.org/abs/1502.05698) [[Summery] (not yet!)] [[code - Keras] ()]
-- **KV MN** : [Paper](http://arxiv.org/pdf/1502.05698.pdf) [[Summery] (not yet!)]
+- **bAbI** : [Paper](http://arxiv.org/abs/1502.05698) [[Summary] (not yet!)] [[code - Keras] ()]
+- **E2E MN** : [Paper](http://arxiv.org/abs/1502.05698) [[Summary] (not yet!)] [[code - Keras] ()]
+- **KV MN** : [Paper](http://arxiv.org/pdf/1502.05698.pdf) [[Summary] (not yet!)]
 
 Recommender system
 ------------------
 
-- **Item embeddings** [Not yet!]() [[Summery] (not yet!)]
-- **Learn items relations** [Not yet!]() [[Summery] (not yet!)]
-- **Siamese net for predicting items relations** [Not yet!]() [[Summery] (not yet!)]
-- **Tripplet net for predicting items relations** [Not yet!]() [[Summery] (not yet!)]
-- **Deep MF with implicit feedback** [Not yet!]() [[Summery] (not yet!)]
-- **Deep and wide** [Not yet!]() [[Summery] (not yet!)]
-- **BPR: Bayesian Personalized Ranking from Implicit Feedback** [Paper](https://arxiv.org/pdf/1205.2618.pdf) [[Summery](not yet!)]
-- **VBPR: Visual Bayesian Personalized Ranking from Implicit Feedback** [Paper](http://cseweb.ucsd.edu/~jmcauley/pdfs/aaai16.pdf) [[Summery](not yet!)]
+- **Item embeddings** [Not yet!]() [[Summary] (not yet!)]
+- **Learn items relations** [Not yet!]() [[Summary] (not yet!)]
+- **Siamese net for predicting items relations** [Not yet!]() [[Summary] (not yet!)]
+- **Tripplet net for predicting items relations** [Not yet!]() [[Summary] (not yet!)]
+- **Deep MF with implicit feedback** [Not yet!]() [[Summary] (not yet!)]
+- **Deep and wide** [Not yet!]() [[Summary] (not yet!)]
+- **BPR: Bayesian Personalized Ranking from Implicit Feedback** [Paper](https://arxiv.org/pdf/1205.2618.pdf) [[Summary](not yet!)]
+- **VBPR: Visual Bayesian Personalized Ranking from Implicit Feedback** [Paper](http://cseweb.ucsd.edu/~jmcauley/pdfs/aaai16.pdf) [[Summary](not yet!)]
 
 Neural networks architectures
 ----------------------------------
-- **Net2Net** [Paper]() [[Summery]()] [[Code]()]
-- **Squeez net** [Paper]() [[Summery]()] [[Code]()]
-- **Siamese net** [[Summery]()] [[Code]()]
-- **Triplet net** [[Summery]()] [[Code]()]
-- **Resedual net** [Paper]() [[Summery]()] [[Code]()]
-- **Inception net** [Paper]() [[Summery]()] [[Code]()]
+- **Net2Net** [Paper]() [[Summary]()] [[Code]()]
+- **Squeez net** [Paper]() [[Summary]()] [[Code]()]
+- **Siamese net** [[Summary]()] [[Code]()]
+- **Triplet net** [[Summary]()] [[Code]()]
+- **Resedual net** [Paper]() [[Summary]()] [[Code]()]
+- **Inception net** [Paper]() [[Summary]()] [[Code]()]
