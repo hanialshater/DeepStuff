@@ -47,3 +47,12 @@ Neural networks architectures
 - **Triplet net** [[Summary]()] [[Code]()]
 - **Resedual net** [Paper]() [[Summary]()] [[Code]()]
 - **Inception net** [Paper]() [[Summary]()] [[Code]()]
+
+Machine learning for Humans
+-----------------------------
+Note: these are not deep learing but worth considering for real world applications
+- **Interpretable Decision sets** - submodular optimization for better rule classifiers [Paper](https://cs.stanford.edu/people/jure/pubs/interpretable-kdd16.pdf)
+- **Ask me better question** - simple idea for human in the loop [Paper](http://dl.acm.org/citation.cfm?id=2020559)
+- **Why should I trus you (LIME)** - Establish trust in machine learing model [Paper](https://arxiv.org/abs/1602.04938)
+
+
