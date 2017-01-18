@@ -1,7 +1,7 @@
 #Deep stuff 
 =================
 
-this repo contain deep learning resources and projects for educational purposes + some other projects that are good candidate for deepenazation 
+This repo contain deep learning resources and projects for educational purposes with focus on industry + some other projects that are good candidate for deepenazation. 
 
 Appetizers
 ----------
@@ -21,15 +21,18 @@ These are few basic models to get startd, try implement them before go further w
 - **FeedForward net** [[useful background](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial)] [[Summary] (not yet!)] [[code - Keras] (not yet!)]
 - **Simple CNN** [[useful background](http://cs231n.github.io/convolutional-networks/)] [[Summary] (not yet!)] [[code - Keras] (not yet!)]
 
-QA
-------
+QA - Memory networks and seq2seq
+--------------------------------
 - **bAbI** : [Paper](http://arxiv.org/abs/1502.05698) [[Summary] (not yet!)] [[code - Keras] ()]
 - **E2E MN** : [Paper](http://arxiv.org/abs/1502.05698) [[Summary] (not yet!)] [[code - Keras] ()]
 - **KV MN** : [Paper](http://arxiv.org/pdf/1502.05698.pdf) [[Summary] (not yet!)]
 
+QA - Retrival based
+--------------------
+- **Dual RNN** [Paper](https://arxiv.org/abs/1506.08909)
+
 Recommender system
 ------------------
-
 - **Item embeddings** [Not yet!]() [[Summary] (not yet!)]
 - **Learn items relations** [Not yet!]() [[Summary] (not yet!)]
 - **Siamese net for predicting items relations** [Not yet!]() [[Summary] (not yet!)]
@@ -38,6 +41,7 @@ Recommender system
 - **Deep and wide** [Not yet!]() [[Summary] (not yet!)]
 - **BPR: Bayesian Personalized Ranking from Implicit Feedback** [Paper](https://arxiv.org/pdf/1205.2618.pdf) [[Summary](not yet!)]
 - **VBPR: Visual Bayesian Personalized Ranking from Implicit Feedback** [Paper](http://cseweb.ucsd.edu/~jmcauley/pdfs/aaai16.pdf) [[Summary](not yet!)]
+- **CDL - collabprative deep learning** [Paper](http://dl.acm.org/citation.cfm?id=2783273) [[Summary](not yet!)]
 
 Neural networks architectures
 ----------------------------------
@@ -55,4 +59,35 @@ Note: these are not deep learing but worth considering for real world applicatio
 - **Ask me better question** - simple idea for human in the loop [Paper](http://dl.acm.org/citation.cfm?id=2020559)
 - **Why should I trus you (LIME)** - Establish trust in machine learing model [Paper](https://arxiv.org/abs/1602.04938)
 
+Tensorflow + keras tutorials
+----------------------------
+- **Basic tensorflow** [Tutorial](https://github.com/alrojo/tensorflow-tutorial)
+- **RNNs in tensorflow** a must read tutorial [Part 1](http://r2rt.com/recurrent-neural-networks-in-tensorflow-i.html) [Part 2](http://r2rt.com/recurrent-neural-networks-in-tensorflow-ii.html) [Part 3](http://r2rt.com/recurrent-neural-networks-in-tensorflow-iii-variable-length-sequences.html)
+- **Retrival based chatbot** - from wildml blog [Tutorial](http://www.wildml.com/2016/07/deep-learning-for-chatbots-2-retrieval-based-model-tensorflow)
+- **Deep reinforcement learning form wildml** [Series](https://github.com/dennybritz/reinforcement-learning)
+- **Deep reinforcement learning, another series** [Series](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0) 
+- **GAN image completion** [Tutorial](https://bamos.github.io/2016/08/09/deep-completion/)
+- **Pix2Pix** [Tutorial](https://hackernoon.com/remastering-classic-films-in-tensorflow-with-pix2pix-f4d551fa0503#.by4s59vcs)
+- **Learning interpretable latent representations InfoGan** [Tutorial](https://medium.com/emergent-future/learning-interpretable-latent-representations-with-infogan-dd710852db46#.p52xgnr6h)
 
+Industrial Papers
+-----------------
+- **Google smart replay** [Paper](https://arxiv.org/abs/1606.04870)
+- **Youtube DL recommender** [Paper](http://dl.acm.org/citation.cfm?id=2959190)
+- **Pintrest image search** [Paper](https://arxiv.org/abs/1505.07647)
+- **Amazon stream** [Paper](http://dl.acm.org/citation.cfm?id=2959171)
+
+Deep Learning implementations and examples
+------------------------------------------
+- **Tensorflow models** [Repo](https://github.com/tensorflow/models)
+- **Tensorflow examples** [Repo](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples)
+- **MXNet examples** [Repo](https://github.com/dmlc/mxnet/tree/master/example)
+- **MXNet notebooks** [Repo](https://github.com/dmlc/mxnet-notebooks)
+- **Keras examples** [Repo](https://github.com/fchollet/keras/tree/master/examples)
+
+Awsome lists
+------------
+- **Awsome tensorflow** [Link](https://github.com/jtoy/awesome-tensorflow)
+- **Deeplearning reading roadmap** [Link](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
+- **GAN Papers** [Link](https://github.com/zhangqianhui/AdversarialNetsPapers)
+- **Awsome deep learning papers** [Link](https://github.com/terryum/awesome-deep-learning-papers)
