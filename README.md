@@ -85,6 +85,12 @@ Deep Learning implementations and examples
 - **MXNet notebooks** [Repo](https://github.com/dmlc/mxnet-notebooks)
 - **Keras examples** [Repo](https://github.com/fchollet/keras/tree/master/examples)
 
+Computer vision
+----------------
+- **Learning Deep Features for Discriminative Localization** [Paper](https://arxiv.org/pdf/1512.04150.pdf)
+- **We don't need no bounding-boxes** [Paper](https://arxiv.org/abs/1602.08405)
+
+
 Awsome lists
 ------------
 - **Awsome tensorflow** [Link](https://github.com/jtoy/awesome-tensorflow)
