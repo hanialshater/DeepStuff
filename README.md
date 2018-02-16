@@ -134,6 +134,7 @@ Computer vision
 - **Open Pose** [Link](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 - **Cut paste and learn** [Paper](https://arxiv.org/pdf/1708.01642.pdf)
 - **From Red Wine to Red Tomato: Composition with Context** [Paper](http://www.cs.cmu.edu/~imisra/data/composing_cvpr17.pdf)
+- **Learning by Asking Questions** [Paper](https://arxiv.org/abs/1712.01238)
 
 Forgetting in Neural networks
 - **Learn to remember rare events** [Paper](https://arxiv.org/pdf/1703.03129.pdf)
