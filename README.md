@@ -59,6 +59,7 @@ Neural networks architectures
 Descrete and sets
 -----------------
 - **Deep Sets** [Paper](https://papers.nips.cc/paper/6931-deep-sets.pdf)
+- **Pointer networks**
 
 Text to speach
 --------------
@@ -162,6 +163,11 @@ GAN
 - **Gan Hacks**
 - **GAN zoo** [Link](https://github.com/hindupuravinash/the-gan-zoo)
 - **Progressive GAN** [Link](https://devblogs.nvidia.com/photo-editing-generative-adversarial-networks-1/)
+
+Ensambles
+---------
+- **Deep ensambles** [Paper](https://papers.nips.cc/paper/7219-simple-and-scalable-predictive-uncertainty-estimation-using-deep-ensembles.pdf)
+- **Data Distillation: Towards Omni-Supervised Learning** [Paper](https://arxiv.org/abs/1712.04440)
 
 Misc
 ----
