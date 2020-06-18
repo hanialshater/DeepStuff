@@ -194,3 +194,6 @@ Unsorted
 - **CRNN** OCR with CTC  [Repo](https://github.com/meijieru/crnn.pytorch)
 - Generate synthitic Text for OCR [Repo](https://github.com/ankush-me/SynthText)
 - **Ladder net** [Repo](https://github.com/abhiskk/ladder)
+
+TO BE ADDE
+----------
